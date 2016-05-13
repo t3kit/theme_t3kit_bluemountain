@@ -6,7 +6,6 @@ description      : |
 
 parentTheme:
   name: theme_t3kit
-  version: '1.0.0'
 
 # Keywords (optional)
 keywords:
@@ -18,8 +17,8 @@ keywords:
 # Screenshots for the preview gallery (optional, multiple possible)
 screenshots:
   -
-    file           : EXT:theme_t3kit_test/Meta/Screenshots/screenshot.png
-    caption        : t3kit theme test
+    file           : EXT:theme_t3kit_bluemountain/Meta/Screenshots/screenshot.png
+    caption        : Theme-t3kit-Bluemountain
 
 
 # Whether a documentation page is available (optional)
