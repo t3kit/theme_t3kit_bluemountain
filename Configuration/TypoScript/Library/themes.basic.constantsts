@@ -1,0 +1,6 @@
+themes.configuration.feLayoutPath = EXT:theme_t3kit_bluemountain/Resources/Public/felayout_bluemountain
+
+
+# themes.configuration.features.searchTargetPage = 71
+
+# themes.configuration.features.newsDefaultDetailPid = 42
