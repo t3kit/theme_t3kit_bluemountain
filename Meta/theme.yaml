@@ -1,0 +1,35 @@
+# Name and description of the theme (required)
+title            : Theme-t3kit-Bluemountain
+version          : 0.0.1
+description      : |
+    Sub-Theme Blue Mountain fot t3kit project
+
+parentTheme:
+  name: theme_t3kit
+  version: '1.0.0'
+
+# Keywords (optional)
+keywords:
+  - t3kit
+  - theme
+  - responsive design
+
+
+# Screenshots for the preview gallery (optional, multiple possible)
+screenshots:
+  -
+    file           : EXT:theme_t3kit_test/Meta/Screenshots/screenshot.png
+    caption        : t3kit theme test
+
+
+# Whether a documentation page is available (optional)
+documentation:
+  -
+    uri            : http://t3kit.com
+    title          : t3kit.com
+
+# Whether a live demo is available (optional)
+demoLocation:
+  -
+    uri            : http://demo.t3kit-bluemountain.com
+    title          : demo.t3kit-bluemountain.com
