@@ -1,1 +1,7 @@
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:theme_t3kit/Configuration/PageTS/tsconfig.txt">
+
+# Overrides of fluid_styled_content
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:theme_t3kit_bluemountain/Configuration/FluidStyledContent" extensions="pagets">
+
+# Add our Grid elements
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:theme_t3kit_bluemountain/Configuration/GridElements/PageTS" extensions="pagets">

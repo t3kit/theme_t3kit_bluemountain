@@ -1,5 +1,6 @@
-themes.configuration.feLayoutPath = EXT:theme_t3kit_bluemountain/Resources/Public/felayout_bluemountain
+themes.configuration.siteDomain = t3kit-bluemountain.testserver.pixelant.nu
 
+themes.configuration.feLayoutPath = EXT:theme_t3kit_bluemountain/Resources/Public/felayout_bluemountain
 
 # themes.configuration.features.searchTargetPage = 71
 
