@@ -1,8 +1,8 @@
 # Name and description of the theme (required)
-title            : Theme-t3kit-Bluemountain
+title            : Theme Blue Mountain
 version          : 0.0.1
 description      : |
-    Sub-Theme Blue Mountain fot t3kit project
+    Theme Blue Mountain fot t3kit project
 
 parentTheme:
   name: theme_t3kit
@@ -30,5 +30,5 @@ documentation:
 # Whether a live demo is available (optional)
 demoLocation:
   -
-    uri            : http://demo.t3kit-bluemountain.com
-    title          : demo.t3kit-bluemountain.com
+    uri            : http://demo.t3kit.com
+    title          : demo.t3kit.com
