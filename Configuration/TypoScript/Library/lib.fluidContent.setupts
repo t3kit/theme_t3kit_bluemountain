@@ -9,7 +9,7 @@ lib.fluidContent {
                 # 0 =
                 100 = gray-background
                 101 = blue-mountain-wrp
-                102 = blue-mountaih-header
+                102 = blue-mountain-header
                 105 = inverse
                 106 = saturated-inverse
             }
