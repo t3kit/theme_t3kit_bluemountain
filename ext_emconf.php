@@ -5,7 +5,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'Sub-Theme Blue Mountain fot t3kit project',
 	'category' => 'templates',
 	'shy' => 0,
-	'version' => '0.2.0',
+	'version' => '0.3.0',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
@@ -32,7 +32,7 @@ $EM_CONF[$_EXTKEY] = array(
 			't3kit_extension_tools' => '1.0.0-1.0.99',
 			'fluid_styled_content' => '0.0.0-0.0.0',
 			'gridelements' => '7.0.0-7.2.99',
-			'theme_t3kit' => '1.5.0-1.10.99',
+			'theme_t3kit' => '1.6.0-1.10.99',
 		),
 		'conflicts' => array(
 		),

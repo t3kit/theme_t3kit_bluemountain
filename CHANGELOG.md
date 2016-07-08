@@ -1,4 +1,11 @@
 
+#### v0.3.0 `July 8, 2016`
+- **[UPDATE]** felayout_bluemountain 0.4.0 ([b8a795e](https://github.com/t3kit/theme_t3kit_bluemountain/commit/b8a795e))
+- **[DOC]** update ext info ([ff0bbfc](https://github.com/t3kit/theme_t3kit_bluemountain/commit/ff0bbfc))
+- **[DOC]** add license file (Podio feature_24) ([672ab5a](https://github.com/t3kit/theme_t3kit_bluemountain/commit/672ab5a))
+
+***
+
 #### v0.2.0 `June 22, 2016`
 - **[UPDATE]** felayout_bluemountain 0.3.0 ([53dbdb5](https://github.com/t3kit/theme_t3kit_bluemountain/commit/53dbdb5))
 - **[UPDATE]** felayout_bluemountain 0.2.0 ([54b32b1](https://github.com/t3kit/theme_t3kit_bluemountain/commit/54b32b1))
