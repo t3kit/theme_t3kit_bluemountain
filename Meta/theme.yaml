@@ -1,6 +1,6 @@
 # Name and description of the theme (required)
 title            : Theme Blue Mountain
-version          : 0.3.0
+version          : 0.4.0
 description      : |
   Theme Blue Mountain fot t3kit project -
   This theme have two ways how to manipulate with settings. One standard for TYPO3 themes and second real time intuitive interface to change settings. https://t3kit.github.io/theme_bluemountain_customizer

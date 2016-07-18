@@ -1,4 +1,12 @@
 
+#### v0.4.0 `July 18, 2016`
+- **[UPDATE]** felayout_bluemountain 0.5.0 ([420a106](https://github.com/t3kit/theme_t3kit_bluemountain/commit/420a106))
+- **[UPDATE]** correct and update dependencies in ext_emconf ([9959cfb](https://github.com/t3kit/theme_t3kit_bluemountain/commit/9959cfb))
+- **[DOC]** add CONTRIBUTING.md file ([9436208](https://github.com/t3kit/theme_t3kit_bluemountain/commit/9436208))
+- **[DOC]** update README file ([d23b2e1](https://github.com/t3kit/theme_t3kit_bluemountain/commit/d23b2e1))
+
+***
+
 #### v0.3.0 `July 8, 2016`
 - **[UPDATE]** felayout_bluemountain 0.4.0 ([b8a795e](https://github.com/t3kit/theme_t3kit_bluemountain/commit/b8a795e))
 - **[DOC]** update ext info ([ff0bbfc](https://github.com/t3kit/theme_t3kit_bluemountain/commit/ff0bbfc))
