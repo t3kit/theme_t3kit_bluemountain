@@ -1,4 +1,11 @@
 
+#### v0.5.0 `October 18, 2016`
+- **[UPDATE]** felayout_bluemountain 0.6.0 ([3c486ed](https://github.com/t3kit/theme_t3kit_bluemountain/commit/3c486ed))
+- **[UPDATE]** felayout_bluemountain ([ea9cf32](https://github.com/t3kit/theme_t3kit_bluemountain/commit/ea9cf32))
+- **[FIX]** php dependency version ([7c6c9d4](https://github.com/t3kit/theme_t3kit_bluemountain/commit/7c6c9d4))
+
+***
+
 #### v0.4.0 `July 18, 2016`
 - **[UPDATE]** felayout_bluemountain 0.5.0 ([420a106](https://github.com/t3kit/theme_t3kit_bluemountain/commit/420a106))
 - **[UPDATE]** correct and update dependencies in ext_emconf ([9959cfb](https://github.com/t3kit/theme_t3kit_bluemountain/commit/9959cfb))
