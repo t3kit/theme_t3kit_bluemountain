@@ -1,0 +1,10 @@
+{
+    "name": "t3kit/theme-t3kit-bluemountain",
+    "description": "Theme t3kit Blue mountain",
+    "type": "typo3-cms-extension",
+    "homepage": "http://t3kit.com/",
+    "license": "GPL-2.0+",
+    "support": {
+        "issues": "https://github.com/t3kit/theme_t3kit_bluemountain/issues"
+    }
+}
