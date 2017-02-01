@@ -22,9 +22,6 @@ themes.configuration.elem.status.showHeaderTop = 1
 # cat=header,advanced/header_top; type=options[0,1]; label= Show Header Top Contacts [Default Header]
 themes.configuration.elem.status.showHeaderTopContacts = 1
 
-# cat=header,advanced/header_top; type=options[0,1]; label= Show Header Top LangMenu [Default Header]
-themes.configuration.elem.status.showHeaderTopLangMenu = 0
-
 # cat=header,advanced/header_top; type=options[0,1]; label= Show Header Top Search [Default Header]
 themes.configuration.elem.status.showHeaderTopSearch = 0
 
