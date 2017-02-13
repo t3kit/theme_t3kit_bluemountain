@@ -6,5 +6,8 @@
     "license": "GPL-2.0+",
     "support": {
         "issues": "https://github.com/t3kit/theme_t3kit_bluemountain/issues"
+    },
+    "require": {
+        "t3kit/theme-t3kit": "1.9.0"
     }
 }
