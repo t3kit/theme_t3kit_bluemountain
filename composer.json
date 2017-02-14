@@ -1,4 +1,14 @@
 {
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://composer.typo3.org/"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/t3kit/theme_t3kit"
+        }
+    ],
     "name": "t3kit/theme-t3kit-bluemountain",
     "description": "Theme t3kit Blue mountain",
     "type": "typo3-cms-extension",
@@ -10,5 +20,8 @@
     "minimum-stability": "dev",
     "require": {
         "t3kit/theme-t3kit": "1.9.0"
+    },
+      "require-dev": {
+        "t3kit/theme-t3kit": "dev-master"
     }
 }
