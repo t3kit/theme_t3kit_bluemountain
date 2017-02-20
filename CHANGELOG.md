@@ -1,4 +1,13 @@
 
+#### v1.1.0 `February 20, 2017`
+- **[UPDATE]** felayout_bluemountain, add styles for new content element Hero Image ([5d481b4](https://github.com/t3kit/theme_t3kit_bluemountain/commit/5d481b4))
+- **[FIX]** composef conflict with theme_t3kit ([25a9977](https://github.com/t3kit/theme_t3kit_bluemountain/commit/25a9977))
+- **[TASK]** add require-dev theme-t3kit in composer ([69a8970](https://github.com/t3kit/theme_t3kit_bluemountain/commit/69a8970))
+- **[TASK]** add minimum-stability-dev option to composer.json ([14396a5](https://github.com/t3kit/theme_t3kit_bluemountain/commit/14396a5))
+- **[UPDATE]** required dependencies config ([447c639](https://github.com/t3kit/theme_t3kit_bluemountain/commit/447c639))
+
+***
+
 #### v1.0.0 `January 24, 2017`
 - **[UPDATE]** felayout_bluemountain 1.0.0 ([a0a6df5](https://github.com/t3kit/theme_t3kit_bluemountain/commit/a0a6df5))
 - **[UPDATE]** felayout_bluemountain, add 6-7 levels for submenu and fix news pagination and tags ([ff9d96b](https://github.com/t3kit/theme_t3kit_bluemountain/commit/ff9d96b))
